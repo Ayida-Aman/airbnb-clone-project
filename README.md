@@ -16,11 +16,6 @@ This project is a full-stack clone of the popular accommodation platform **AirBn
 - React (or similar component-based framework)
 - Figma for UI/UX design
 
-**Backend**
-- Node.js with Express.js
-- MongoDB or PostgreSQL (based on preference)
-- Authentication with JWT or OAuth
-
 **Version Control**
 - Git & GitHub
 
