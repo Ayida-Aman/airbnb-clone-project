@@ -124,3 +124,50 @@ Understanding the visual language of a design mockup is essential for a consiste
 
 When teams speak a shared design language from mockup to implementation, it speeds up collaboration and results in a polished, user-centered product.
 
+---
+
+## 🧑‍💼 Project Roles and Responsibilities
+
+Effective collaboration is at the heart of a successful full-stack development project. Below is an overview of key roles and their responsibilities within the team:
+
+### 👩‍🏫 Project Manager
+- Oversees project timeline, scope, and deliverables
+- Coordinates communication between team members
+- Tracks progress and ensures timely completion of tasks
+
+### 💻 Frontend Developers
+- Translate UI designs into responsive and functional web pages
+- Implement reusable components and dynamic data rendering
+- Ensure accessibility and performance optimization across devices
+
+### 🧪 QA/Testers
+- Write and execute unit, integration, and end-to-end test cases
+- Identify bugs, usability issues, and performance bottlenecks
+- Ensure the app meets functional and user expectations
+
+### 🔧 Backend Developers
+- Build and maintain APIs, databases, and business logic
+- Ensure data security, validation, and proper error handling
+- Optimize server performance and scalability
+
+### 🎨 Designers
+- Create high-fidelity mockups and design systems in Figma
+- Ensure visual consistency, usability, and accessibility
+- Collaborate with frontend developers during implementation
+
+### ⚙️ DevOps Engineers
+- Set up and maintain the CI/CD pipeline for deployments
+- Manage hosting infrastructure and server environments
+- Monitor app health, logs, and performance metrics
+
+### 📋 Product Owner
+- Defines product vision, requirements, and user stories
+- Prioritizes features based on stakeholder needs and goals
+- Reviews deliverables to ensure they meet business objectives
+
+### 🧭 Scrum Master
+- Facilitates Agile ceremonies (standups, retrospectives, sprint planning)
+- Removes blockers and supports team productivity
+- Encourages continuous improvement and team accountability
+
+Each role contributes to the project’s success by aligning technical execution with user needs, business goals, and design quality—ensuring the end product is robust, reliable, and delightful to use.
