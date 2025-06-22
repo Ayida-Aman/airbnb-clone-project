@@ -28,6 +28,8 @@ This project is a full-stack clone of the popular accommodation platform **AirBn
 
 This clone emphasizes code quality, accessibility, mobile-first design, and teamwork—creating not just a technical build, but a complete developer learning experience.
 
+---
+
 ## 🎨 UI/UX Design Planning
 
 ### 📌 Design Goals
@@ -55,3 +57,70 @@ This clone emphasizes code quality, accessibility, mobile-first design, and team
 ### 🧠 Why User-Friendly Design Matters
 
 A user-friendly interface is essential for building trust and ensuring conversions in a booking system. Clear navigation, responsive interactions, and intuitive layouts reduce friction in the user journey—especially on mobile devices. A well-designed UI improves accessibility, reduces support requests, and ultimately enhances the overall customer experience, contributing to higher user satisfaction and platform loyalty.
+
+### 🎨 Figma Design Specifications
+
+#### 🎨 Color Styles
+- **Primary Color:** #FF5A5F — Used for call-to-action elements (buttons, highlights)
+- **Secondary Color:** #008489 — Supports primary accents and tags
+- **Background:** #FFFFFF — Clean and minimal layout foundation
+- **Primary Text:** #222222 — High-contrast, legible body text
+- **Secondary Text:** #717171 — For metadata, placeholders, and subdued content
+
+#### 🖋 Typography
+- **Font Family:** Circular
+- **Heading Fonts:**
+  - Weight: Bold (700)
+  - Sizes: 24px–32px
+- **Body Text:**
+  - Weight: Medium (500)
+  - Size: 16px
+- **Secondary Text:**
+  - Weight: Book (400)
+  - Size: 14px
+
+#### 🧩 Why Identifying Design Properties Matters
+
+Understanding the visual language of a design mockup is essential for a consistent and accessible user interface. Identifying properties like color and typography ensures:
+
+- **Brand Consistency:** Keeps visual tone aligned across all pages and platforms
+- **Developer Efficiency:** Allows seamless handoff from design to code
+- **User Clarity:** Enhances readability, hierarchy, and intuitive interaction
+- **Accessibility:** Enables designers and developers to meet usability standards across devices and audiences
+
+When teams speak a shared design language from mockup to implementation, it speeds up collaboration and results in a polished, user-centered product.
+
+---
+
+### 🎨 Figma Design Specifications
+
+#### 🎨 Color Styles
+- **Primary Color:** #FF5A5F — Used for call-to-action elements (buttons, highlights)
+- **Secondary Color:** #008489 — Supports primary accents and tags
+- **Background:** #FFFFFF — Clean and minimal layout foundation
+- **Primary Text:** #222222 — High-contrast, legible body text
+- **Secondary Text:** #717171 — For metadata, placeholders, and subdued content
+
+#### 🖋 Typography
+- **Font Family:** Circular
+- **Heading Fonts:**
+  - Weight: Bold (700)
+  - Sizes: 24px–32px
+- **Body Text:**
+  - Weight: Medium (500)
+  - Size: 16px
+- **Secondary Text:**
+  - Weight: Book (400)
+  - Size: 14px
+
+#### 🧩 Why Identifying Design Properties Matters
+
+Understanding the visual language of a design mockup is essential for a consistent and accessible user interface. Identifying properties like color and typography ensures:
+
+- **Brand Consistency:** Keeps visual tone aligned across all pages and platforms
+- **Developer Efficiency:** Allows seamless handoff from design to code
+- **User Clarity:** Enhances readability, hierarchy, and intuitive interaction
+- **Accessibility:** Enables designers and developers to meet usability standards across devices and audiences
+
+When teams speak a shared design language from mockup to implementation, it speeds up collaboration and results in a polished, user-centered product.
+
