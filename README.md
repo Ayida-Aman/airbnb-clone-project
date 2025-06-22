@@ -171,3 +171,26 @@ Effective collaboration is at the heart of a successful full-stack development p
 - Encourages continuous improvement and team accountability
 
 Each role contributes to the project’s success by aligning technical execution with user needs, business goals, and design quality—ensuring the end product is robust, reliable, and delightful to use.
+
+---
+
+## 🧱 UI Component Patterns
+
+Building modular and reusable UI components is essential for maintaining a scalable and efficient codebase. Below are the key components identified for the project, each designed for consistency, responsiveness, and accessibility.
+
+###  Navbar
+- Includes logo, navigation links, and user profile or login controls
+- Responsive hamburger menu for mobile devices
+- Integrated search bar with location and date filters
+
+###  Property Card
+- Displays key property info: image, price, location, rating
+- Interactive elements: heart/favorite button, hover effects
+- Designed for use in grid layouts on listing pages
+
+###  Footer
+- Contains navigational links, company information, and legal notices
+- Social media icons and branding
+- Responsive layout to adapt to all screen sizes
+
+Each component will follow a consistent design system, use semantic HTML, and be styled for accessibility and responsiveness. These foundational pieces can be composed and reused across multiple views to ensure a cohesive user experience throughout the application.
